@@ -1,0 +1,13 @@
+
+
+#LIBRARIES TO BE INSTALL FOR THE PROJECT
+
+1) pip install pandas
+
+2) pip install scikit_learn
+
+3) pip install marplotlib
+
+4) pip install nltk
+
+5) pip install seaborn
